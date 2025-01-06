@@ -17,7 +17,6 @@
 </head>
 <body>
 <div class="container">
-
     <h1>Seasonal Fruit and Vegetables</h1>
     <p>What produce is in season this month?</p>
     <p>
@@ -27,6 +26,16 @@
     <p>
         Current Month is:
         <span id="currMonth"></span>
+    </p>
+</div>
+<div class="container">
+    <p>
+        Fruits:
+        <span id="fruits"></span>
+    </p>
+    <p>
+        Vegetables:
+        <span id="vegetables"></span>
     </p>
 </div>
 
